@@ -2,6 +2,8 @@
 import random
 from game_logic import pick_winner
 
+print("Tervetuloa kivi-paperi-sakset peliin!")
+print("Valitse pelimuoto:")
 multiplayer = input("Are you playing against the computer? (y/n): ").lower()
 if multiplayer == "y":
     print("You are playing against the computer.")
