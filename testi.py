@@ -4,3 +4,4 @@ print("Testi lause 3")
 
 # Tämä on kommentti jonka lisäsin feature-joona branchiin
 muuttuja = 69
+asdasd = "muuttja"
